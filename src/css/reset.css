@@ -1,0 +1,13 @@
+*{ /* o asterisco é uma tag que seleciona todos as tags do html */
+    margin: 0;
+    padding: 0; /* espaço interno */
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
